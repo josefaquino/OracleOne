@@ -1,4 +1,4 @@
-Curso OracleONE em Parceria com Alura
+Curso Oracle ONE em Parceria com Alura
 Descrição
 Repositório contendo projetos, atividades e materiais do Curso OracleONE em parceria com a Alura.
 Índice
