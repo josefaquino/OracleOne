@@ -1,4 +1,3 @@
-Aqui está o README atualizado:
 Curso OracleONE em Parceria com Alura
 Descrição
 Repositório contendo projetos, atividades e materiais do Curso OracleONE em parceria com a Alura.
